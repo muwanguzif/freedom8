@@ -1,0 +1,29 @@
+#navbar{
+    width: 20%;
+    float: left;
+    height: 100%;
+    font-size: 180%;
+    position: fixed;
+    border: 2px black solid;
+     color:green;
+     background-color: aqua;
+
+    
+}
+main{
+    width: 75%;
+    float: right;
+    height: 100%;
+    font-size: 200%;
+       
+}
+
+li {
+    padding: 20px;
+}
+#introduction{
+    color: yellow;
+}
+body{
+    background-image: url(vvvvvv) 
+}
